@@ -24,7 +24,7 @@ This application allows users to exter expenses and deposits to their budget. A 
 
 Clone this repository to VS code. Open an integrated terminal from the progressiveBudget folder, and enter "npm start".
 
-Alternatively, the webpage can be accessed on Heroku at https://mrao-progressiveBudget.herokuapp.com/
+Alternatively, the webpage can be accessed on Heroku at https://peaceful-atoll-01297.herokuapp.com/
 
 # Known Bugs
 
